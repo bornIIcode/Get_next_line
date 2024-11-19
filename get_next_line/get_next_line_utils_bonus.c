@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ytabia <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ytabia <ytabia@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/11/17 13:09:48 by ytabia            #+#    #+#             */
-/*   Updated: 2024/11/17 13:10:11 by ytabia           ###   ########.fr       */
+/*   Created: 2024/11/18 17:50:03 by ytabia            #+#    #+#             */
+/*   Updated: 2024/11/18 18:26:02 by ytabia           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(const char *str, int search_str)
 {
